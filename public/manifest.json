@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "PWA weather app",
+  "name": "First PWA app for weather info",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "images/bg.jpg",
+      "type": "image/jpeg",
+      "sizes": "1200x512"
     },
     {
-      "src": "logo512.png",
+      "src": "images/logo.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1024x1024 512x512 256x256 128x128 64x64 32x32 24x24 16x16"
     }
   ],
   "start_url": ".",
